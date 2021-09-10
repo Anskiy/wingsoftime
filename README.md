@@ -1,6 +1,6 @@
 Wings of Time: An Open Ended Chrono Trigger Randomizer
 
-**NOTE: This randomizer is no longer in development. It has been superceded by Jets of Time, which is currently up to date and is developed for. Check it out here: https://github.com/Anskiy/jetsoftime**
+**NOTE: This randomizer is no longer in development. It has been superceded by Jets of Time, which is currently up to date and is being developed for. Check it out here: https://github.com/Anskiy/jetsoftime**
 
 Version: 1.0a (Alpha)
 
